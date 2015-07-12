@@ -1,0 +1,64 @@
+Resources list for P2 FEWD 2015 Cohort 2
+
+
+
+This was all new to me.  I have practically zero background in programming.  I spent some time back in 1999
+ 
+playing with HTML and selecting "view source" code to learn a few HTML tags like <br>, , <a = href, bold and italic.
+
+
+
+For the first project 1 I finished the video lessons and then spent a ton of time in the forums writing and re-writing
+
+the HTML code.  Once I figured out the CSS tweaks were the key to getting my mockup page to get more in line
+
+I retuned my CSS and finished the project.  Then I validated CSS and HTML, met with my instructor 
+Jee Kang 
+and submitted my project when she gave me the go ahead.   
+
+
+
+I was convinced everyone else was way ahead of me since some people were on P3 and P4 and I was still on P1.
+
+But I believe some people are only working on the nanodegree and don't work 50 hour a week full time jobs 
+
+while trying to make time to study too like I have to. I try to stay positive!
+
+
+
+For P2 i started out on Git and figured out basic navigation without having to take the entire course.
+
+I registered my github and completed the Javascript Basics and Intro to JQuery courses.
+
+I found most of the items very confusing and there were missing parts in the videos to the solutions
+
+James and Cameron were arriving at at the end of the lession.  Several times they listed a typo or problem
+
+with their code in the solution.  I reported a couple of issues as well like my finding ".splice" instead
+
+of.slice in the first .replace quiz.  Its a different command altogether!
+
+
+
+My resources for P2 included
+
+1.  Course videos for "Javascript Basics" and "Intro to JQuery" fron Udacity.
+
+2.  Mozilla Developer Network  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
+3.  Purchased and read tke book "Javascript, just the Basics" By Michael J. Young.
+
+4.  Read the book "Eloquent Javascript" online at http://eloquentjavascript.net/
+
+5.  Consulted the Google Developers Tutorial https://developers.google.com/maps/documentation/javascript/tutorial
+
+6.  Watched the Office Hours Video from Mark and Henry at Google Hangouts for P2 Questions and Answers.
+7.  Got a few tips from some friends and family members who are web developers.  
+
+8.  0ne of them wants to complete the nanodegree FEWD himself. 
+
+9.  HTML Validator.
+ http://validator.w3.org/
+10. CSS Validator.
+ http://jigsaw.w3.org/css-validator/
+11. CSS Alamanac link from P1.
