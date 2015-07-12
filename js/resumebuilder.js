@@ -40,7 +40,6 @@
 			$(id).append(formattedGithub);
 			$(id).append(formattedLinkedin);
 			$(id).append(formattedLocation);
-			$(id).append(internationalizeButton);
 		}
 
 		var formattedMessage = HTMLWelcomeMsg.replace("%data%", bio.welcomeMessage); 
