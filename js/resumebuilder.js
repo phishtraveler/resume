@@ -178,14 +178,15 @@
 					"name": "Oral Roberts University",
 					"degree": "Bachelor of Science in Business Marketing",
 					"major": [ "BS Business Marketing", "Psychology"],
+					
 					"url": "http://www.oru.edu",
 					"location": "Tulsa, OK"
 			}
 			],
 		"onlineCourses" : [
 			{
-					"title": "Front End Web Developer",
-					"school": "Udacity",
+					"title": "Front End Web Developer 2014-2015",
+					"school": "Udacity ",
 					"dates": "2014 - 2015",
 					"url" : "http://www.udacity.com/nd001"
 			}
@@ -208,7 +209,6 @@
 	
 			$(".education-entry:last").append(formattedSchoolTitle);
 			$(".education-entry:last").append(formattedSchoolMajor);
-			$(".education-entry:last").append(formattedSchoolDates);
 			$(".education-entry:last").append(formattedSchoolLocation);
 			
   	  	})
