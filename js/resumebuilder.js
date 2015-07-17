@@ -178,7 +178,6 @@
 					"name": "Oral Roberts University",
 					"degree": "Bachelor of Science in Business Marketing",
 					"major": [ "BS Business Marketing", "Psychology"],
-					"dates": "From: 1988 To: 1992 ",
 					"url": "http://www.oru.edu",
 					"location": "Tulsa, OK"
 			}
