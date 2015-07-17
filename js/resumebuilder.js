@@ -127,23 +127,23 @@
     "projects":
 		[
 	    	 {
-				"title": "Project 2",
-				"dates": "2014",
-				"description": "Create an Online Resume using JavaScript and JQuery",
-				"url": "https://github.com/phishtraveler/Assignment-2.git",
-				"images": [
-					"images/resume.jpg",
-					"images/style.jpg"
-		 	]
-		 	},
-		 	{
-		 		"title": "Project 3",
+				"title": "Project 3",
 		 		"dates": "2015",
 				"description": "Finish a Classic Arcade Game Clone",
-				"url": "https://github.com/phishtraveler/Assignment-3.git",
+				"url": "https://github.com/phishtraveler/arcade",
 				"images": [
 					"images/project3.jpg",
 					"images/arcade.png"
+		 	]
+		 	},
+		 	{
+		 		"title": "Project 5",
+		 		"dates": "2015",
+				"description": "Neighborhood Map Project ",
+				"url": "https://github.com/phishtraveler/map",
+				"images": [
+					"images/mapcode.png",
+					"images/map.png"
 				]		 
 		 	}
     	]
