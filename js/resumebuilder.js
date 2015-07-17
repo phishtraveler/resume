@@ -12,7 +12,7 @@
  			"linkedin": "Jevon Grimes", 
  			"location" : "Tulsa, OK  74137"}, 
       "welcomeMessage": "Hello, welcome to my online resume!", 
-      "skills": [ "JavaScript", "JQuery", "HTML/CSS", "Management"], 
+      "skills": [ "JavaScript", "JQuery", "HTML/CSS", "Management", "Website Optimization"], 
       "biopic": "images/photo.jpg" 
  	}; 
  	  
