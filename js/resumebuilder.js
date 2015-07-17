@@ -62,10 +62,10 @@
     "jobs": [
 		{
 	    	"employer": "AT&T",
-	    	"title": "Advanced Tech Support Manager",
+	    	"title": "Advanced Technical Support Manager",
 	    	"location": "Tulsa, OK",
 	    	"dates": "April 2004 to present",
-	    	"description": "Managing an Inbound Advanced Tech Support Team providing Sales, Service, and Web Support.",
+	    	"description": "Managing an Inbound Advanced Technical Support Team providing Sales, Service, and Web Support.",
 	    	"url": "http://www.att.com"
 		},
 		{
